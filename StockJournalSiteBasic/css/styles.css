@@ -36,6 +36,24 @@ h3 {
     padding-top: 100px;
 }
 
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.profile-paragraph {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.learning-resource-paragraph {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
 .opt {
     text-decoration: underline;
 }
